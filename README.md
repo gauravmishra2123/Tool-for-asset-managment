@@ -27,3 +27,16 @@ To track the allotment and complete life cycle of corporate assets such as phone
 • I have used Pytest Factoryboy for creating the factories for Testing. <br/>
 • I have used Bootstrap Admin for creating the admin dashboard. <br/>
 • I have used Postman & swagger for testing the API's. <br/>
+
+#Project Objective:
+
+1. Efficient Asset Allocation
+2. Accurate records
+3. Centralized Asset Repository
+4. Enhanced employee satisfaction
+5. Life Cycle Management Automation
+6. Transparency in the system
+7. User-Friendly Interface
+8. Real-time Tracking
+9. Cost Optimization
+10. Regulatory Compliance
