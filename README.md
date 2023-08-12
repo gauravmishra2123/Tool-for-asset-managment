@@ -10,19 +10,20 @@ To track the allotment and complete life cycle of corporate assets such as phone
 4. Each company and its staff might delegate one or more devices to employees for a certain period of time
 5. Each company should be able to see when a Device was checked out and returned
 6. Each device should have a log of what condition it was handed out and returned
+7. The complete life cycle management from initial allocation to eventual handover or retirement
 
 #Project Features:
 
-I have Created a new virtual environment for this project and installed the required packages, which i have shared in requirements.txt file. <br/>
-I have used Django Rest Framework for creating the API's. <br/>
-I have used SQLITE3 database for this project. <br/>
-I have used Django ORM for database operations. <br/>
-I have used Django Admin for creating the admin panel. <br/>
-I have used Django Serializer for creating the serializers. <br/>
-I have used Django Rest Framework Spectacular for creating the API documentation. <br/>
-I have used Django Rest Framework Simple JWT for creating the token based authentication. <br/>
-I have used python coverage for creating the coverage report. <br/>
-I have used Pytest for creating the tests. <br/>
-I have used Pytest Factoryboy for creating the factories for Testing. <br/>
-I have used Bootstrap Admin for creating the admin dashboard. <br/>
-I have used Postman & swagger for testing the API's. <br/>
+• I have Created a new virtual environment for this project and installed the required packages, which i have shared in requirements.txt   file. <br/>
+• I have used Django Rest Framework for creating the API's. <br/>
+• I have used SQLITE3 database for this project. <br/>
+• I have used Django ORM for database operations. <br/>
+• I have used Django Admin for creating the admin panel. <br/>
+• I have used Django Serializer for creating the serializers. <br/>
+• I have used Django Rest Framework Spectacular for creating the API documentation. <br/>
+• I have used Django Rest Framework Simple JWT for creating the token based authentication. <br/>
+• I have used python coverage for creating the coverage report. <br/>
+• I have used Pytest for creating the tests. <br/>
+• I have used Pytest Factoryboy for creating the factories for Testing. <br/>
+• I have used Bootstrap Admin for creating the admin dashboard. <br/>
+• I have used Postman & swagger for testing the API's. <br/>
