@@ -13,16 +13,16 @@ To track the allotment and complete life cycle of corporate assets such as phone
 
 #Project Features:
 
-I have Created a new virtual environment for this project and installed the required packages, which i have shared in requirements.txt file. 
-I have used Django Rest Framework for creating the API's. 
-I have used SQLITE3 database for this project. 
-I have used Django ORM for database operations. 
-I have used Django Admin for creating the admin panel. 
-I have used Django Serializer for creating the serializers. 
-I have used Django Rest Framework Spectacular for creating the API documentation. 
-I have used Django Rest Framework Simple JWT for creating the token based authentication. 
-I have used python coverage for creating the coverage report. 
-I have used Pytest for creating the tests. 
-I have used Pytest Factoryboy for creating the factories for Testing. 
-I have used Bootstrap Admin for creating the admin dashboard. 
-I have used Postman & swagger for testing the API's. 
+I have Created a new virtual environment for this project and installed the required packages, which i have shared in requirements.txt file. <br/>
+I have used Django Rest Framework for creating the API's. <br/>
+I have used SQLITE3 database for this project. <br/>
+I have used Django ORM for database operations. <br/>
+I have used Django Admin for creating the admin panel. <br/>
+I have used Django Serializer for creating the serializers. <br/>
+I have used Django Rest Framework Spectacular for creating the API documentation. <br/>
+I have used Django Rest Framework Simple JWT for creating the token based authentication. <br/>
+I have used python coverage for creating the coverage report. <br/>
+I have used Pytest for creating the tests. <br/>
+I have used Pytest Factoryboy for creating the factories for Testing. <br/>
+I have used Bootstrap Admin for creating the admin dashboard. <br/>
+I have used Postman & swagger for testing the API's. <br/>
