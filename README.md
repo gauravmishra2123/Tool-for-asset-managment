@@ -44,8 +44,6 @@ To track the allotment and complete life cycle of corporate assets such as phone
 
 <b>#Flowchart of the process<b><br/>
 <br/>
-<br/>
-
 
 ![Flowchart-2](https://github.com/gauravmishra2123/Tool-for-asset-managment/assets/114698901/821e2c9c-fba3-4f3c-9cc9-536f6910cd3e)
 
