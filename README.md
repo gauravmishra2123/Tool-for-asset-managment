@@ -40,7 +40,7 @@ To track the allotment and complete life cycle of corporate assets such as phone
 7. User-Friendly Interface
 8. Real-time Tracking
 9. Cost Optimization
-10. Regulatory Compliance
+10. Regulatory Compliance<br/>
 
 <b>#Flowchart of the process<b><br/>
 <br/>
