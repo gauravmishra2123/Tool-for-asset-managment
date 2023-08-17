@@ -42,7 +42,8 @@ To track the allotment and complete life cycle of corporate assets such as phone
 9. Cost Optimization
 10. Regulatory Compliance
 
-<b>Flowchart of the process<b>
+<b>#Flowchart of the process<b><br/>
+
     ![Flowchart-2](https://github.com/gauravmishra2123/Tool-for-asset-managment/assets/114698901/547a1ce7-f122-455b-aed5-8b1373d1f369)
 
 
