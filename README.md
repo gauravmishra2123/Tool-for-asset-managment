@@ -49,5 +49,12 @@ To track the allotment and complete life cycle of corporate assets such as phone
 Steps to run the project:
 1. Clone the project from the git repository. Even you can download the zip file from the git repository. (For your ease: I have included .env file)
 2. Create a virtual environment and activate it.
-3. Install the required packages from pip install -r requirements.txt 
+3. Install the required packages from `requirements.txt` file.
+4. Run the following commands:
+    - py manage.py makemigrations
+    - py manage.py migrate --run-syncdb
+    - py manage.py loaddata datadump.json
+    - py manage.py createsuperuser
+    - py manage.py collectstatic
+    - py manage.py runserverrequirements.txt file 
 4. 
