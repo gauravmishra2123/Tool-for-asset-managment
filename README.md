@@ -1,9 +1,9 @@
-# Tool-for-asset-managment
+### Tool-for-asset-managment
 To track the allotment and complete life cycle of corporate assets such as phones, tablets, laptops and other gears handed out to employees.
 
 ![Application For Asset Management](https://github.com/gauravmishra2123/Tool-for-asset-managment/assets/114698901/b87f0785-a4b6-476f-b1d3-586e8a05ecc8)
 
-#Project Description:
+### Project Description:
 
 1. To track corporate assets allocation such as house, flats, vechiles, phones, tablets, laptops and other gears handed out to employees.
 2. The application might be used by several companies
@@ -13,7 +13,7 @@ To track the allotment and complete life cycle of corporate assets such as phone
 6. Each device should have a log of what condition it was handed out and returned
 7. The complete life cycle management from initial allocation to eventual handover or retirement
 
-#Project Features:
+### Project Features:
 
 • I have Created a new virtual environment for this project and installed the required packages, which i have shared in requirements.txt   file. <br/>
 • I have used Django Rest Framework for creating the API's. <br/>
@@ -29,7 +29,7 @@ To track the allotment and complete life cycle of corporate assets such as phone
 • I have used Bootstrap Admin for creating the admin dashboard. <br/>
 • I have used Postman & swagger for testing the API's. <br/>
 
-#Project Objective:
+### Project Objective:
 
 1. Efficient Asset Allocation
 2. Accurate records
