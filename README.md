@@ -57,4 +57,20 @@ Steps to run the project:
     - py manage.py createsuperuser
     - py manage.py collectstatic
     - py manage.py runserverrequirements.txt file 
-4. 
+5. Open the browser and hit the following url for performing API testing in swagger:<br/>
+   - url: http://127.0.0.1:8000/api/schema/swagger-ui/
+6. Now, you have to authenticate yourself before doing any operation. To do that, hit the token endpoint and pass the username and password in the body. You will get a refresh token & access token in the response. Copy the access token and paste it in the authorize section of swagger. Now, you can perform any operation.
+   - url: http://127.0.0.1:8000/token/
+7. You can also see the admin dashboard using the following url:
+    - url: http://127.0.0.1:8000/admin/
+8. Also, you can login to the admin panel using the following / superuser credentials & perform any database operation using my cool admin dashboard panel:
+    - username: masum
+    - password: masum
+    - email: abdullahmasum6035@gmail.com
+9. You can also run the tests using the following command:
+   - pytest
+10. You can also see the coverage report using the following command and open the htmlcov folder & open the index.html file:
+    - coverage html
+12. You can also see the API documentation using the following url:
+    - url: http://127.0.0.1:8000/api/schema/redoc/
+
