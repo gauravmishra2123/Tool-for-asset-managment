@@ -74,3 +74,71 @@ Steps to run the project:
 12. You can also see the API documentation using the following url:
     - url: http://127.0.0.1:8000/api/schema/redoc/
 
+
+### Database Schema:
+This implementation has 4 main models: Company, Device, Employee, and DeviceAssignment.<br/>
+ 1. `Company` stores information about the companies using the app.<br/>
+ 2. `Device` represents the corporate assets, with information such as their name, description, serial number, condition, and which company they belong to.<br/>
+ 3. `Employee` represents the company's staff, with a one-to-one relationship to a Django user and a many-to-many relationship with the Device model, through the DeviceAssignment model.<br/>
+ 4. `DeviceAssignment` represents the assignments of devices to employees, with a foreign key to both the Device and Employee models, as well as the assignment and return dates.<br/>
+
+### Project Commands:
+<details><summary><b>For Future Use (Geeky Stuff):</b></summary> 
+
+- For secret key generation:
+```shell
+python manage.py shell
+from django.core.management.utils import get_random_secret_key
+print(get_random_secret_key())
+exit()
+```
+- For Dumping the data:
+```shell
+python3 manage.py dumpdata > datadump.json
+```
+- For secret key storing:
+```shell
+pip install python-dotenv
+```
+- For Rest Framework Support:
+```shell
+pip install djangorestframework
+pip install markdown
+pip install django-filter
+```
+- For API Documentation:
+```shell
+pip install drf-spectacular
+py manage.py spectacular --color --file schema.yml
+```
+- For Testing:
+```shell
+pip install coverage
+coverage run -m pytest
+coverage html
+pip install pytest
+pip install pytest-django
+pytest -h
+pip install pytest-factoryboy
+```
+- For superuser creation:
+```shell
+py manage.py makemigrations
+py manage.py migrate
+python manage.py createsuperuser
+py manage.py runserver
+```
+- For Token Based Authentication:
+```shell
+pip install djangorestframework_simplejwt
+```
+- For Django Admin Dashboard:
+  ```shell
+pip install bootstrap-admin
+```
+- For Database Data Storing:
+```shell
+py manage.py dumpdata > datadump.json
+py manage.py loaddata datadump.json
+```
+</details>
